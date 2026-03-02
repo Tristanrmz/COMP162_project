@@ -1,1 +1,1 @@
-# COMP162_project.github.io
+# COMP162_project
